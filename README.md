@@ -1,4 +1,4 @@
-# disease prediction using R
+# Disease prediction using R
 The aim of this project is to produce a model that will be able to predict (and classify) an individual's risk of certain diseases using [Behavioural Risk Factor Surveillance System (BRFSS) survey data](https://www.cdc.gov/brfss/annual_data/annual_2020.html). This model will allow insurance companies to assess the risk of potential customers in order to adjust insurance premium costs. It will also allow medical practices to identify patients for early intervention. The diseases that will be predicted are:<br />
 - Coronary heart disease and myocardial infarction (CHD and MI)
 - Kidney Disease
